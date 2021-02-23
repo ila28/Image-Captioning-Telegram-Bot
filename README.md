@@ -8,7 +8,7 @@
 
 ## Инструкция по запуску бота через командную строку
 
-#### Нужно скачать файл с весами по ссылке: https://drive.google.com/drive/folders/1YTuCcJjOiJamSf8pvERBB1m3OmY4FwcI?usp=sharing и поместить их в папку telegram bot
+#### Нужно скачать файл с весами по ссылке: https://drive.google.com/drive/folders/1YTuCcJjOiJamSf8pvERBB1m3OmY4FwcI?usp=sharing и поместить его в папку telegram bot
 
  #### В файле main.py ввести токен своего бота, сохранить все изменения и запусить файл
 
