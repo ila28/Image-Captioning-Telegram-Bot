@@ -1,10 +1,4 @@
-## Image Captioning on tensorflow which you can try in Telegram Bot
-
-### Хороший пример:
-![good](https://raw.githubusercontent.com/ila28/Image-Captioning-Telegram-Bot/main/good.jpg)
-
-### Неудачный пример:
-![bad](https://raw.githubusercontent.com/ila28/Image-Captioning-Telegram-Bot/main/bad.jpg)
+### Image Captioning on tensorflow
 
 ## Инструкция по запуску бота через командную строку
 
@@ -15,3 +9,9 @@
 ```bash
 $ python main.py
 ```
+
+#### Хороший пример:
+![good](https://raw.githubusercontent.com/ila28/Image-Captioning-Telegram-Bot/main/good.jpg)
+
+#### Неудачный пример:
+![bad](https://raw.githubusercontent.com/ila28/Image-Captioning-Telegram-Bot/main/bad.jpg)
