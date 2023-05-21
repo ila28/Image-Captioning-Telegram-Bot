@@ -15,7 +15,7 @@ import requests
 from model import load_image, evaluate
 
 
-API_TOKEN = 'Токет Бота'
+API_TOKEN =  os.getenv("API_TOKEN")
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 translator = google_translator()
